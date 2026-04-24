@@ -13,5 +13,5 @@
 </table>
 
 <p align="center">
-  <img src="LINK_DO_SEU_GIF" width="300">
+  <img src="https://raw.githubusercontent.com/LaraPaxiega/LaraPaxiega/refs/heads/main/Estudante%20de%20Sistema%20de%20Informa%C3%A7%C3%A3o.gif" width="2000">
 </p>
