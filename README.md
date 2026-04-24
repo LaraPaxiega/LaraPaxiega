@@ -6,7 +6,9 @@
       </p>
     </td>
     <td>
-      <img src="SEU_LINK_DA_IMAGEM" width="250">
+      <img src="https://raw.githubusercontent.com/LaraPaxiega/LaraPaxiega/refs/heads/main/Lunalia%2C%20host%20and%20main%20alter%20in%20the%20system%20of%2096%20alters.jpg" width="250">
+      <p>
+        <img 
     </td>
 
   </tr>
