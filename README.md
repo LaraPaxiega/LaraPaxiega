@@ -1,56 +1,87 @@
-<div align="center">
+# 👩🏻‍💻 Lara Paxiega
 
-  <table>
-    <tr>
-      <!-- TEXTO SEJA BEM-VINDO -->
-      <td align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F4C2C2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+bem-vindo+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-        </a>
-      </td>
-      <!-- 📸 ESPAÇO DA FOTO (NOVO, NÃO ALTERA SEU TEXTO) -->
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/LaraPaxiega/LaraPaxiega/refs/heads/main/Lunalia%2C%20host%20and%20main%20alter%20in%20the%20system%20of%2096%20alters.jpg" width="180">
-      </td>
-    </tr>
-  </table>
+**`Estudante Sistema de Infromação`**
 
-</div>
+Estudante na **Rede de Ensino Doctum** (3° período) e apaixonada por tecnologia. 
+Natural de Minas Gerais, estou documentando minha jornada no mundo de TI, compartilhando a evolução dos meus 
+projetos acadêmicos e desafios pessoais.
+ 
 
-<img align="center" alt="" src="https://raw.githubusercontent.com/LaraPaxiega/LaraPaxiega/refs/heads/main/Estudante%20de%20Sistema%20de%20Informa%C3%A7%C3%A3o.gif">
+<!-- Social icons section -->
+<p>
+<a href="https://github.com/LaraPxiega?tab=repositories&sort=stargazers">
+    <img alt="total estrelas" title="Minhas estrelas" src="https://custom-icon-badges.demolab.com/github/stars/LaraPaxiega?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
+ <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LaraPaxiega?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+  </p>
+ 
+ ---
 
-#
 
-<p align="center">Sou estudante de Sistemas de Informação do 3 Periódo, tenho 20 anos e estou no início da minha jornada na área de tecnologia. Tenho conhecimentos básicos em HTML5, CSS3 e estou começando a estudar banco de dados, área pela qual tenho bastante interesse.
-                                                    Atualmente também estou aprendendo PHP e pretendo estudar Python futuramente.
-              Apesar de ainda não ter experiência profissional, já desenvolvi projetos acadêmicos e pessoais que têm me ajudado a evoluir na prática e a                                                        fortalecer meus conhecimentos na área.
-  
-#
+### Meus contatos!
 
-<img align="right" alt="" height="190px" src="https://raw.githubusercontent.com/LaraPaxiega/LaraPaxiega/refs/heads/main/baixados%20(2).gif">
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:larapaxiega@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/LaraPaxiega/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lar4.px?gish=MWlqZzUG9jdmNOcA==)
 
-<h3 align="left">Connect with me!</h3>
+ ###  Minhas stack~
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:larapaxiega.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/larapaxiega/)
+ <p>
+ <img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img 
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<h3 align="left">My Stack ~</h3>
+<img 
+  align="left"
+  alt="GIT"
+  title="GIT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+           
+<img 
+  align="left"
+  alt="MYSQL"
+  title="MYSQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-</div>
+             
+<img 
+  align="left"
+  alt="MYSQL"
+  title="MYSQL"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+       
+</p>
+<p> 
 
-#
-
-<div style="text-align: center;" align="center">
+---
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
+
+---
+
+
+
+
+ 
 
